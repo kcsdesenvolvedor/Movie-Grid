@@ -68,7 +68,7 @@
 
 ---
 
-Agradecimentos
-The Movie Database (TMDB): Pela API gratuita e de alta qualidade.
+## Agradecimentos
+   - The Movie Database (TMDB): Pela API gratuita e de alta qualidade.
 
-Next.js e Tailwind CSS: Pelas ferramentas incríveis que tornaram o desenvolvimento mais eficiente.
+   - Next.js e Tailwind CSS: Pelas ferramentas incríveis que tornaram o desenvolvimento mais eficiente.
