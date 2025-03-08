@@ -33,7 +33,7 @@ export default function MovieDetailsModal({ isOpen, onClose, movie }: MovieDetai
             className="w-full h-full object-cover mt-4"
             onError={(e) => {
               const target = e.target as HTMLImageElement; // Type assertion
-              target.src = "/image-notfound.png"; // Imagem de fallback
+              target.src = "./public/image-notfound.png"; // Imagem de fallback
             }}
           />
         </div>

@@ -23,7 +23,7 @@ export default function MovieCard({ movie: movie }: MovieCardProps) {
             className="w-full h-full object-cover"
             onError={(e) => {
               const target = e.target as HTMLImageElement; // Type assertion
-              target.src = "/image-notfound.png"; // Imagem de fallback
+              target.src = "./public/image-notfound.png"; // Imagem de fallback
             }}
           />
         </div>
