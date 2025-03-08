@@ -2,7 +2,7 @@
 
 **Movie Grid** é um sistema web desenvolvido para explorar e descobrir filmes populares e suas informações detalhadas. O projeto consome a API do **The Movie Database (TMDB)** para exibir uma lista de filmes em um layout de grid responsivo, com funcionalidades de pesquisa e visualização de detalhes dos filmes.
 
-**Acessar o Site 👉 <a href="https://movie-grid-blue.vercel.app/" target="_blank" rel="noopener noreferrer">Movie Grid</a> 👈**
+**Acessar o Site 👉 [Movie Grid](https://movie-grid-blue.vercel.app/){:target="_blank" rel="noopener noreferrer"} 👈**
 ---
 
 ## Funcionalidades Principais
