@@ -34,7 +34,8 @@ body {
   bottom: auto;
   transform: translate(-50%, -50%);
   border-radius: 8px;
-  max-height: 80%;
+  max-width: 95%;
+  max-height: 95%;
   overflow: auto;
 }
 

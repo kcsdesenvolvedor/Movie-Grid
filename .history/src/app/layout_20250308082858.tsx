@@ -9,11 +9,9 @@ export default function RootLayout({
   return (
     <html lang="pt-BR">
       <body className="min-h-screen bg-gray-900 text-white" suppressHydrationWarning>
-        <div id="__next">
-          <Header />
-          <main className="container mx-auto p-4">{children}</main>
-          <Footer />
-        </div>
+        <Header />
+        <main className="container mx-auto p-4">{children}</main>
+        <Footer />
       </body>
     </html>
   );
